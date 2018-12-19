@@ -1,6 +1,6 @@
 # WastedPotential_Milestones
 
-This repository contains all of our project milestones for this semester. Milestone 1 and 2 required multiple files, so we created folders for them. The other milestones are listed below that, mostly as PDF files. 
+This repository contains all of our project milestones for this semester. Milestone 1 and 2 required multiple files, so we created folders for them. The other milestones are listed below that, mostly as PDF files.  
 Milestone 1: Project Proposal  
 Milestone 2: Project Tools and Project Methodology  
 Milestone 3: 1 on 1 meetings (nothing required in repo for this)  
