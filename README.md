@@ -15,4 +15,4 @@ We created a student calendar application. This app will run locally on someone'
 In the dashboard they'll be able to see a breakdown of the assignments and events they have that week, and in the calendar view they'll be able to see their whole month. After adding an assignment to their schedule, our application will prioritize the current list of assignments and fill in the student's preffered study times with work hours scheduled for inidividual assignments.
 Events, assignment due dates, and assignment work times will all be different colors.
 
-For instructions on how to run the application, head over to our code repository. More instructions will be in that README.
+For instructions on how to run the application, head over to our code repository. More instructions will be in that repository's README.
